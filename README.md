@@ -9,3 +9,7 @@ works with bedrock and mcpe. if on phone I suggest using fx launcher to import t
 Enjoy
 
 Also FULL CREDIT TO THE ACTUAL PEOPLE WHO MADE THESE IDK WHO MADE THEM I GOT THEM OFF A GUY ON YOUTUBE
+
+
+
+EXTRA HELP - if on mobile and want to download but it won't let you download go to the github site on Chrome or safari and search for this respiratory and put in desktop mode. Then you should be able to download the mods.
